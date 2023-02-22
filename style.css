@@ -1,0 +1,35 @@
+body {
+  background-color: #0d1a20;
+  background-image: radial-gradient(#1c3645, #0d1a20);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #FFD700;
+}
+
+section {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#word {
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+input[type=button] {
+  margin-left: 6rem;
+}
+
+h1 {
+  font-family: "Impact", sans-serif;
+  font-size: 5rem;
+  color: #FFD700;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-top: 0;
+}/*# sourceMappingURL=style.css.map */
